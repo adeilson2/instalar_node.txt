@@ -1,0 +1,4 @@
+instalar o node.js = sudo apt install npm
+
+verificar versão: npm -v 
+verificar versão node: node -v
